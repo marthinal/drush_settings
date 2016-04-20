@@ -1,0 +1,6 @@
+name: 'DRUSH SETTINGS'
+type: module
+description: 'Drush commands for settings.'
+package: DRUSH
+version: VERSION
+core: 8.x
